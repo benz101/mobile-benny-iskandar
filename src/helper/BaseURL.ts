@@ -1,0 +1,1 @@
+export const baseURL = 'https://mock.apidog.com/m1/523540-0-default/api';
